@@ -1,3 +1,4 @@
 # Tic-Tac-Toe Game
 
-I've made this game to get familiar with the React syntax and learn how to build an app with React.
+I've made this game to get familiar with React.
+[Demo](https://adinamatei.github.io/tic-tac-toe-app/index.html)
